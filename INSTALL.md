@@ -40,5 +40,8 @@ To make it easier to use the macros, I suggest the following to add the macros t
 9. (optional) If you want to shorten the names of the entries, just select them and click the "Rename"
    button. For example, you could select "DRB_Round_Count", click on the "Rename" button, and rename it
    to "Counts". I have renamed mine to "Round Counts", "Round Estimates", and "Restore Original".
+10. (optional) With your custom "DRB" tab selected, you can use the up/down arrows on the right to
+    move you tab in the ribbon. Placing it at the bottom of list (as far as you can) will put your "DRB"
+    tab all the way on the right of your Ribbon.
 
 You are done! These settings should remain from session to session so you only need to do them once. DRB rounding is now just a click away!!
